@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-enum class OpType : uin8_t {
+enum class OpType : uint8_t {
   PUT = 1,
   DEL = 2 // tombstone
 };
