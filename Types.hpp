@@ -1,5 +1,7 @@
 #pragma once
 #include <string>
+#include <optional>
+#include <cstdint>
 
 enum class OpType : uint8_t {
   PUT = 1,
