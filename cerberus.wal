@@ -1,0 +1,4 @@
+PUT 8 user_101 5 Alice
+PUT 8 user_102 3 Bob
+PUT 8 user_103 7 Charlie
+DEL 8 user_101
